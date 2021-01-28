@@ -1,0 +1,39 @@
+{
+  "update_id": 508250574,
+  "message": {
+    "chatId": 185929241,
+    "groupMessage": false,
+    "userMessage": true,
+    "channelMessage": false,
+    "superGroupMessage": false,
+    "command": true,
+    "reply": false,
+    "message_id": 1,
+    "from": {
+      "bot": false,
+      "id": 185929241,
+      "first_name": "max",
+      "is_bot": false,
+      "username": "jrrby"
+    },
+    "date": 1611825827,
+    "chat": {
+      "groupChat": false,
+      "userChat": true,
+      "channelChat": false,
+      "superGroupChat": false,
+      "id": 185929241,
+      "type": "private",
+      "first_name": "max",
+      "username": "jrrby"
+    },
+    "text": "hello",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 6
+      }
+    ]
+  }
+}
