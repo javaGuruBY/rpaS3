@@ -1,3 +1,4 @@
+# [![Generic badge](https://img.shields.io/badge/homework-JAVA-fa0000.svg)](https://moodle.jrr.by/) JH1T2
 #Проверочная работа: Алгоритмы
 1. Description
 Задание : Описать алгоритмы, с которыми вы сталкиваетесь каждый день.
@@ -52,6 +53,3 @@
 5. Встретить людей
 6. Поддерживать атмосферу вечеринки
 7. Завершить вечеринку.
-
-# [![Generic badge](https://img.shields.io/badge/homework-JAVA-fa0000.svg)](https://moodle.jrr.by/)
-
