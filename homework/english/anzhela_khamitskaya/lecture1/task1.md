@@ -1,5 +1,0 @@
-# Сondition
-
-## Solution
-
-### Notes
