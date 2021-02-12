@@ -1,0 +1,7 @@
+organization=v-klda
+projectKey=V-klda_rpaS3
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.17241
+dashboardUrl=https://sonarcloud.io/dashboard?id=V-klda_rpaS3
+ceTaskId=AXeV7Lt2_9oImxZu9bkK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXeV7Lt2_9oImxZu9bkK
