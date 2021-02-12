@@ -6,7 +6,7 @@ ths s code
 
   Java
   public class App {
-    public static void main{String [] arg) {
+    public static void main(String [] arg) {
       //tut
       }
      }
