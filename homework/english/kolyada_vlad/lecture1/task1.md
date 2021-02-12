@@ -103,7 +103,10 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 31 I have a big backlog of work to do.
 
 TASK 3
-MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
+MAKE YOUR OWN EXAMPLES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
+Java is a multithreaded programming language.
+Every week programmers get purpose from product backlog.
+I'll do everything in my power to complete a course.
 
 
 
