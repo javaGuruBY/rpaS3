@@ -3,7 +3,7 @@ TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 1 He usually has breakfast at 6 a.m.
 2 Anyone who smokes 20 cigarettes a day can expect to have health problems.
-3 She doesn't like cooking, but today she bakes a pie.
+3 She doesn't like cooking, but today she is baking a pie.
 4 I am finishing the project right now.
 5 I don't listen to rock music very often.
 6  — What does your sister do?
@@ -12,8 +12,8 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
 1 Do you usually work on Saturdays?
-2 Listen! Somebody sings.
-3 Look! The sun shines.
+2 Listen! Somebody is singing.
+3 Look! The sun is shining.
 4 He doesn't use his car every day.
 5 — Where are you  from?
 — I am from Canada.
@@ -23,7 +23,7 @@ TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО dp/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМАХ)
 1 He is a good musician, but he doesn't perform very often.
 2 I don't go to the gym on Mondays because I usually finish my work very late.
-3 Please turn off the laptop, you are using it.
+3 Please turn off the laptop, you aren't using it.
 4 I don't like tea, but today, I am drinking it.
 5 It's dark in your room. Are you sleeping?
 
