@@ -42,42 +42,43 @@ VOCABULARY PRACTICE
 TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
 1 to execute  
-2 to transfer
-3 to compile
-4 to pass to
-5 to switch
-6 to support
+2 to transfer перемещать
+3 to compile  выполнять
+4 to pass to перейти к
+5 to switch переключать
+6 to support поддерживать
 7 to retool
 8 to implement
-9 to run a program
+9 to run a program запустить программу
 10 to enable
 11 to utilize
-12 language features
-13 multithreaded
-14 electronic appliance
-15 embedded systems
-16 to complete a course
-17 to require 
+12 language features особенности языка
+13 multithreaded многопоточный
+14 electronic appliance электронное устройств
+15 embedded systems строенные системы
+16 to complete a course завершить курс
+17 to require  требовать
 18 optional
 19 assignment
-20 to expand
-21 to assist
-22 to allow
-23 to contain
+20 to expand расширять
+21 to assist помогать
+22 to allow разрешать
+23 to contain содержать
 24 placeholder
-25 lowercase letter
-26 capital letter 
-27 purpose
-28 variable
+25 lowercase letter строчная (маленькая буква)
+26 capital letter  заглавная буква
+27 purpose цель (задача)
+28 variable переменная
 29 discouraged
-30 to avoid
-31 backlog 
-32 analytics engine
-33 distibuted search 
-(аналитическая машина, встроенные системы, поле(метка), разрешать, составлять, строчная (маленькая буква), заглавная буква, поддерживать, позволять (давать возможность),
-электронное устройство, перечень задач, использовать, многопоточный, необязательный, избегать, расширять, перемещать, переделать (переоборудовать), цель (задача), 
-особенности языка, помогать, запустить программу, нерекомендованный, задание, применить, распределительный поиск, завершить курс, содержать,требовать,выполнять,перейти к, 
-переменная, переключать)
+30 to avoid избегать
+31 backlog  задание
+32 analytics engine аналитическая машина
+33 distibuted search  распределительный поиск
+
+поле(метка), , составлять , , позволять (давать возможность),
+о, перечень задач, использовать, , необязательный, , , , переделать (переоборудовать), , 
+, , , нерекомендованный, , применить, , , ,,,, 
+, )
 
 
 TASK 2
