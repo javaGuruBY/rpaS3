@@ -31,11 +31,11 @@ CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ О
 
 TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО dp/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМАХ)
-1 He is a good musician, but he [...] perform very often.
-2 I [...] go to the gym on Mondays because I usually finish my work very late.
-3 Please turn off the laptop, you [...] using it.
-4 I [...] like tea, but today, I [ ... ] drinking it.
-5 It's dark in your room. [...] you sleeping?
+1 He is a good musician, but he [don't] perform very often.
+2 I [am] go to the gym on Mondays because I usually finish my work very late.
+3 Please turn off the laptop, you [are] using it.
+4 I [am] like tea, but today, I [am] drinking it.
+5 It's dark in your room. [Do] you sleeping?
 
 
 VOCABULARY PRACTICE
