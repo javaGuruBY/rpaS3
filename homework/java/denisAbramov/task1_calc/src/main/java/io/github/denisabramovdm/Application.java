@@ -1,4 +1,4 @@
-package by.jrr.start;
+package io.github.denisabramovdm;
 
 public class Application {
 
