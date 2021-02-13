@@ -108,14 +108,37 @@ MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ С�
 4. He's passed the difficult assignment to the leader. 
 5. It is possible to switch from an English teacher to a programmer, isn't it?
 6. If you stuck with using this electronic appliance, you need somebody to support you.
+7. The factory needs to be retooled.
+8. The class “Fish” implements the interface “Swimmable”.
+9. To run a program you need the JRE.
+10.  The debugger enables us to understand the algorithm of a program.
+11.  I wish I can utilize new java features.
+12. For the present I don’t know, what multi-threaded program means.  
+13. An embedded system controls physical operations of the machine.
+14. I need to work hard, if I want to complete this course.
+15. This profession requires a great responsibility.
+16. You don’t have to visit optional lessons.
+17. Space exploration expands human’s vision of life.
+18. Could you assist me by executing of this backlog?
+19. Women often allows their emotions to control them.
+20. This program contains a bag.
+21. I need to make this variable private, because it is discouraged to use public variable in such position.
+22. I have to avoid working all night, because it’s not healthy.
 
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО.АУДИО ПРЕДСТАВЛЕНИЯ В ЧАТЕ СВОЕЙ ГРУППЫ)
 1 What's your name? 
+My name is Lena.
 2 How old are you? 
+I'm 34.
 3 Where do you live?
+I live in Novopolotsk.
 4 What do you do?
+I work as a logistics manager.
 5 What do you like doing in your free time?
+I like reading, watching educational or entertainment YouTube channels, sometimes in English.  I just like to spend time with my family. 
 6 Would you like to be a programmer? Why?
+Yes, I would.  This job implies friendly working conditions, is in high demand, well-paid and develops your mind. 
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English?
+I learnt English at University for 4 years.  I like English, I need English, so I would like to improve my speaking skills. And the hardest thing is to find words for expressing my thoughts during the conversation. 
