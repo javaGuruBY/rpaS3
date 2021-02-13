@@ -22,13 +22,12 @@ is your sister doing
 
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
-1 Are you usually working on Saturdays?
-2 Listen! Somebody sings.
-3 Look! The sun shines.
-4 He is not using his car every day.
-5 — Where are you coming from?
-— I am from Canada.
-6 What happened? Why do you cry?
+1 Are you usually work on Saturdays?
+2 Listen! Somebody sing.
+3 Look! The sun is shines.
+4 He don't using his car every day.
+5 — Where are you from? — I am from Canada.
+6 What is happened? Why do you cry?
 
 TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО dp/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМАХ)
