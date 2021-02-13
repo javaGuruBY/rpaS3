@@ -1,10 +1,16 @@
 package io.github.denisabramovdm.bean;
 
 public class Inputs {
-    private double number1;
-    private double number2;
-    private double result;
-    private char operation;
+
+
+
+    private double number1 = 0;
+    private double number2 = 0;
+    private double result = 0;
+    private String operation;
+
+    public Inputs() {
+    }
 
     public double getNumber1() {
         return number1;
@@ -30,11 +36,11 @@ public class Inputs {
         this.result = result;
     }
 
-    public char getOperation() {
+    public String getOperation() {
         return operation;
     }
 
-    public void setOperation(char operation) {
+    public void setOperation(String operation) {
         this.operation = operation;
     }
 }
