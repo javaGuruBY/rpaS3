@@ -34,3 +34,26 @@ MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СП�
 32 analytics engine - аналитическая машина
 33 distibuted search - распределительный поиск
 
+TASK 3
+MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ).
+1 I must execute a lot of sentences to finish my english homework
+2 My neighbour transfered my laptop and I cab't find it.
+3 I must compile my program
+4 Our teacher told us to pass to next page in our books
+5 Switch chanal please
+6 He always supports me
+7 My dad retools my bicycle
+8 I implemented 3 new mthods to run this program
+9 My friend allowed me to utilize his electronic appliance
+10 This language features enable to create multithreaded programs
+11 Embedded systems are very common today
+12 I really want to comlete a course in this year
+13 Employers require a lot of knowlege. I would like it to be optional
+14 This assigments aexpand my mind
+15 I assist my friend to make his home more comfortable
+16 This taxt contains many capital letters. It is discouraged. Use instead of it lowercase letter.
+17 What is placeholder? I never listened adout it before
+18 My purpose is create an analytics engine
+19 This veriable must be inside this curly braces
+20 My backlog for next week scares me
+21 I don't know what is distibuted search. Now I am surfing the Internet to find something about it
