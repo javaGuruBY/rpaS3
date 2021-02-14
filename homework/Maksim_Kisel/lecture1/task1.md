@@ -1,7 +1,7 @@
 GRAMMAR PRACTICE
 TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
-1 He [usually] breakfast at 6 a.m.
+1 He [usually] has breakfast at 6 a.m.
 2 Anyone who [smokes] 20 cigarettes a day can expect to have health problems.
 3 She doesn't like cooking, but today she [is baking] a pie.
 4 I [am finishing] the project right now.
@@ -12,10 +12,10 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
 1 Do you usually work on Saturdays?
-2 Listen! Somebody singing.
+2 Listen! Somebody is singing.
 3 Look! The sun is shining.
 4 He does not use his car every day.
-5 — Where did you come from?
+5 — Where do you come from?
 — I am from Canada.
 6 What happened? Why are you crying?
 
@@ -24,7 +24,7 @@ COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE
 1 He is a good musician, but he [doesn't] perform very often.
 2 I [don't] go to the gym on Mondays because I usually finish my work very late.
 3 Please turn off the laptop, you [aren't] using it.
-4 I [do] like tea, but today, I [am not ] drinking it.
+4 I [don't] like tea, but today, I [am] drinking it.
 5 It's dark in your room. [Are] you sleeping?
 
 
