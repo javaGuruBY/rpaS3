@@ -1,3 +1,4 @@
+# [![Generic badge](https://img.shields.io/badge/homework-ENGLISH-0008fa.svg)](https://moodle.jrr.by/)
 #EH1
 ##englich.homework1
 
@@ -110,7 +111,55 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 
 TASK 3
 MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
+1 to execute  выполнять
+I execute my task.
+2 to transfer перемещать
+I transfer my branch.
+3 to compile   составлять
+I compile the list of purposes every day.
+4 to pass to перейти к
+I pass to next task.
+5 to switch переключать
+I switch the master branch on other branch.
+6 to support поддерживать
+I support my parants financically.
+7 to retool переделать (переоборудовать)
+I retool my my frind book.
+8 to implement применить
+I implemented new knowledg.
+9 to run a program запустить программу
+I to run a program, but I cath the exception.
+10 to enable позволять (давать возможность)
+My best friend enable me to live at his home.
+11 to utilize использовать
+I utilize the opportunity.
+12 language features особенности языка
+This is language features.
+13 multithreaded многопоточный
+This server is multithreaded.
+14 electronic appliance электронное устройств
+Book is the electronic appliance.
+15 embedded systems встроенные системы
+My application use embedded systems.
 
+16 to complete a course завершить курс
+17 to require  требовать
+18 optional необязательный
+19 assignment - задача
+20 to expand расширять
+21 to assist помогать
+22 to allow разрешать
+23 to contain содержать
+24 placeholder поле(метка)
+25 lowercase letter строчная (маленькая буква)
+26 capital letter  заглавная буква
+27 purpose цель (задача)
+28 variable переменная
+29 discouraged нерекомендованный
+30 to avoid избегать
+31 backlog  перечень задач
+32 analytics engine аналитическая машина
+33 distibuted search  распределительный поиск
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО.АУДИО ПРЕДСТАВЛЕНИЯ В ЧАТЕ СВОЕЙ ГРУППЫ)
