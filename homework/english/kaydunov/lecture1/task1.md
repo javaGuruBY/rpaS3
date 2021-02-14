@@ -141,25 +141,39 @@ This server is multithreaded.
 Book is the electronic appliance.
 15 embedded systems встроенные системы
 My application use embedded systems.
-
 16 to complete a course завершить курс
+I complete a SpaR3 course.
 17 to require  требовать
+I require to save the calm.
 18 optional необязательный
+This lesson is optional.
 19 assignment - задача
+My assigment to do it.
 20 to expand расширять
+I expand my knowledge about IT technologie.
 21 to assist помогать
+I assist my girl earn the money.
 22 to allow разрешать
+Do you allow me to use it.
 23 to contain содержать
+The book contain the information, what I need.
 24 placeholder поле(метка)
+I set the placeholder.
 25 lowercase letter строчная (маленькая буква)
 26 capital letter  заглавная буква
+Lowercase letter differ from capital letter.
 27 purpose цель (задача)
 28 variable переменная
 29 discouraged нерекомендованный
+I used the discouraged variable for the purpose.
 30 to avoid избегать
+Don't to avoid this hard method. Use it.
 31 backlog  перечень задач
+My backlog is empty.
 32 analytics engine аналитическая машина
-33 distibuted search  распределительный поиск
+My brain is analytics engine.
+33 distributed search  распределительный поиск
+I don't know what it is the distributed search.
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО.АУДИО ПРЕДСТАВЛЕНИЯ В ЧАТЕ СВОЕЙ ГРУППЫ)
