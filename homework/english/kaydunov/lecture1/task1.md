@@ -37,49 +37,42 @@ COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE
 4 I [am] like tea, but today, I [am] drinking it.
 5 It's dark in your room. [Do] you sleeping?
 
-
 VOCABULARY PRACTICE
 TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
-1 to execute  
+1 to execute  выполнять
 2 to transfer перемещать
-3 to compile  выполнять
+3 to compile   составлять
 4 to pass to перейти к
 5 to switch переключать
 6 to support поддерживать
-7 to retool
-8 to implement
+7 to retool переделать (переоборудовать)
+8 to implement применить
 9 to run a program запустить программу
-10 to enable
-11 to utilize
+10 to enable позволять (давать возможность)
+11 to utilize использовать
 12 language features особенности языка
 13 multithreaded многопоточный
 14 electronic appliance электронное устройств
 15 embedded systems строенные системы
 16 to complete a course завершить курс
 17 to require  требовать
-18 optional
-19 assignment
+18 optional необязательный
+19 assignment - задача
 20 to expand расширять
 21 to assist помогать
 22 to allow разрешать
 23 to contain содержать
-24 placeholder
+24 placeholder поле(метка)
 25 lowercase letter строчная (маленькая буква)
 26 capital letter  заглавная буква
 27 purpose цель (задача)
 28 variable переменная
-29 discouraged
+29 discouraged нерекомендованный
 30 to avoid избегать
-31 backlog  задание
+31 backlog  перечень задач
 32 analytics engine аналитическая машина
 33 distibuted search  распределительный поиск
-
-поле(метка), , составлять , , позволять (давать возможность),
-о, перечень задач, использовать, , необязательный, , , , переделать (переоборудовать), , 
-, , , нерекомендованный, , применить, , , ,,,, 
-, )
-
 
 TASK 2
 READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ ПРИМЕРЫ СО СЛОВАМИ И ФРАЗАМИ ИЗ ПРЕДЫДУЩЕГО УПРАЖНЕНИЯ) 
@@ -121,10 +114,15 @@ MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ С�
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО.АУДИО ПРЕДСТАВЛЕНИЯ В ЧАТЕ СВОЕЙ ГРУППЫ)
-1 What's your name? 
-2 How old are you? 
-3 Where do you live?
-4 What do you do?
-5 What do you like doing in your free time?
-6 Would you like to be a programmer? Why?
+1 What's your name? - My name is Den. My second name is Kaydunov
+2 How old are you? - I am thirty old.
+3 Where do you live? - I am from Belarus, Gomel. I live in a private house.
+4 What do you do? - I am a programmer.
+5 What do you like doing in your free time? - I like latina dance. I playing the football.
+6 Would you like to be a programmer? Why? - I like to be a programmer because it is cool, is 
+constant self-study, is automation of routine, is blockchein, is robots, 
+augmented reality, is project "Venera", is "Ilon Mask". Yes, I heard, what Java using in 
+space rocket. Programing is future.
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English?
+Yes, I learn English before. I wont improve my speaking English. The hardest thing about learning English is speaking English.
+I don't have humman for speaking English. I believe that I will succeed.
