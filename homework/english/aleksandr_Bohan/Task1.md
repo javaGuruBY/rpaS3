@@ -172,6 +172,40 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 
 TASK 3
 MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
+to execute - выполнять/I executed my English homework yesterday;   
+2 to transfer - перемещать; I am transfering my laptop on my table;
+3 to compile - составлять/You shoud compile shedule of my work day;
+4 to pass to - перейти к/She offered to pass to deeper lerning of English;
+5 to switch - переключать/ I will swich your brain on other task;
+6 to support - поддерживать/It is very important to support good connection on this site;
+7 to retool - переделать (переоборудовать)/He retooling your previous exercise;
+8 to implement - применить/I usually implement my peronal skills in practice;
+9 to run a program - запустить программу/Today My friend has run a program;
+10 to enable - позволять (давать возможность)/ I enable this person access to company resource;
+11 to utilize - использовать/His friend utilized that feature on current project;
+12 language features - особенности языка/Encapsulation and legacy are language features of Java;
+13 multithreaded - многопоточный/I think multithreaded is a power tool in programming;
+14 electronic appliance - электронное устройство/This electronic appliance is working very well;
+15 embedded systems - встроенные системы/I don't know any embedded systems;
+16 to complete a course - завершить курс/I hope I am going to complete a cource;
+17 to require - требовать/Every good boss requires quality of work from the lead;
+18 optional - необязательный/ There is optional thing on this project;
+19 assignment - задание/Scrum master must give assignment his team;
+20 to expand - расширять/First class can expand second class in Java;
+21 to assist - помогать/I think people in every team should help each other;
+22 to allow - разрешать/ She allowed him to enter;
+23 to contain - содержать/Java contain many libraries of methods;
+24 placeholder - поле(метка)/"String s" is a planceholder of the class; 
+25 lowercase letter - строчная (маленькая буква)/"a" is a lowercase letter;
+26 capital letter - заглавная буква/"B" is a capital letter;
+27 purpose - цель (задача)/I have a clobal purpose;
+28 variable - переменная/Variable is one of the important things in programming;
+29 discouraged - нерекомендованный/ There is discouraged innovation in this task;
+30 to avoid - избегать/Juniors should avoid modifier of access "static"; 
+31 backlog - перечень задач/There are many topics in our backlog;
+32 analytics engine - аналитическая машина/I don't know analytics engine works;
+33 distibuted search - распределительный поиск/I want to study by distibuted search;
+
 
 
 SPEAKING PRACTICE
