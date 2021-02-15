@@ -6,21 +6,21 @@ GRAMMAR PRACTICE
 
 TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
-1. He [usually has/~~is usually having~~] breakfast at 6 a.m.
-2. Anyone who [smokes/~~is smoking~~] 20 cigarettes a day can expect to have health problems.
-3. She doesn't like cooking, but today she [~~bakes~~/is baking] a pie.
-4. I [~~finish~~/am finishing] the project right now.
-5. I [don't listen/~~am not listening~~] to rock music very often.
-6.  — What [does your sister do/~~is your sister doing~~]?
+1. He usually has breakfast at 6 a.m.
+2. Anyone who smokes20 cigarettes a day can expect to have health problems.
+3. She doesn't like cooking, but today she is baking a pie.
+4. I am finishing the project right now.
+5. I don't listen to rock music very often.
+6.  — What does your sister do?
 — She is a programmer.
 
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
-1. *Do* you usually working on Saturdays?
+1. *Do* you usually work on Saturdays?
 2. Listen! Somebody is *singing*.
 3. Look! The sun is *shining*.
 4. He *doesn't use* his car every day.
-5. — Where are you from?
+5. — Where are you coming from?
 — I am from Canada.
 6. What happened? Why *are you crying*?
 
