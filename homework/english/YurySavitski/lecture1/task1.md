@@ -4,7 +4,7 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 1 He [usually has] breakfast at 6 a.m.
 2 Anyone who [smokes] 20 cigarettes a day can expect to have health problems.
 3 She doesn't like cooking, but today she [is baking] a pie.
-4 I [finish] the project right now.
+4 I [am finishing] the project right now.
 5 I [don't listen] to rock music very often.
 6  — What [does your sister do]?
 — She is a programmer.
@@ -15,7 +15,7 @@ CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ О
 2 Listen! Somebody is singing.
 3 Look! The sun is shining.
 4 He does not use his car every day.
-5 — Where are you coming from?
+5 — Where do you come from?
 — I am from Canada.
 6 What happened? Why are you crying?
 
@@ -105,11 +105,11 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 TASK 3
 MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
 
-Ships transfers cargo.
+Ships transfer cargo.
 TV remote helps to switch TV channels.
 Charger enables you to charge electronic appliances.
 You need to execute unresolved assignments before completing optional tasks.
-Pioneers assists grandmas cross the roads.
+Pioneers assist grandmas cross the roads.
 Analytics engine is executing multithreaded computations.
 
 
