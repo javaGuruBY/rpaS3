@@ -2,9 +2,6 @@
 #EH1
 ##englich.homework1
 
-This is first lesson english.
-My home work will there soon.
-
 GRAMMAR PRACTICE
 TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
@@ -13,13 +10,13 @@ usually has
 2 Anyone who [smokes/is smoking] 20 cigarettes a day can expect to have health problems.
 smokes
 3 She doesn't like cooking, but today she [bakes/is baking] a pie.
-bakes
+is baking
 4 I [finish/am finishing] the project right now.
-finish
+am finishing
 5 I [don't listen/am not listening] to rock music very often.
-am not listening
+don't listen
 6  — What [does your sister do/is your sister doing]? — She is a programmer.
-is your sister doing
+does your sister do
 
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
@@ -118,11 +115,11 @@ I transfer my branch.
 3 to compile   составлять
 I compile the list of purposes every day.
 4 to pass to перейти к
-I pass to next task.
+I pass to the next task.
 5 to switch переключать
 I switch the master branch on other branch.
 6 to support поддерживать
-I support my parants financically.
+I support my parents financically.
 7 to retool переделать (переоборудовать)
 I retool my my frind book.
 8 to implement применить
@@ -167,7 +164,7 @@ Lowercase letter differ from capital letter.
 29 discouraged нерекомендованный
 I used the discouraged variable for the purpose.
 30 to avoid избегать
-Don't to avoid this hard method. Use it.
+Don't avoid this hard method. Use it.
 31 backlog  перечень задач
 My backlog is empty.
 32 analytics engine аналитическая машина
@@ -181,11 +178,11 @@ ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GRO
 2 How old are you? - I am thirty old.
 3 Where do you live? - I am from Belarus, Gomel. I live in a private house.
 4 What do you do? - I am a programmer.
-5 What do you like doing in your free time? - I like latina dance. I playing the football.
+5 What do you like doing in your free time? - I like latina dance. I like to play football.
 6 Would you like to be a programmer? Why? - I like to be a programmer because it is cool, is 
 constant self-study, is automation of routine, is blockchein, is robots, 
 augmented reality, is project "Venera", is "Ilon Mask". Yes, I heard, what Java using in 
 space rocket. Programing is future.
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English?
-Yes, I learn English before. I wont improve my speaking English. The hardest thing about learning English is speaking English.
+Yes, I learn English before. I want to improve my spoken language. The hardest thing about learning English is speaking English.
 I don't have humman for speaking English. I believe that I will succeed.
