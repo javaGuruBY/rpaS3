@@ -210,13 +210,14 @@ to execute - выполнять/I executed my English homework yesterday;
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО.АУДИО ПРЕДСТАВЛЕНИЯ В ЧАТЕ СВОЕЙ ГРУППЫ)
-1 What's your name? 
-2 How old are you? 
-3 Where do you live?
-4 What do you do?
-5 What do you like doing in your free time?
-6 Would you like to be a programmer? Why?
+1 What's your name? /My name is Sasha.
+2 How old are you? /I am 25 years old.
+3 Where do you live? /I live in Molodechno city of Minsk region.
+4 What do you do? /I am regulator electronic equipment.
+5 What do you like doing in your free time? /I like  meeting my friends, travalling, reading books, programming on Java. 
+6 Would you like to be a programmer? Why? /I wouid like to change my life, to have an interesting job, to get more money then my current job.
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English?
+/Yes, I did. I think english in IT should improve from time to time. Everything in English is hard for me. The hardest thing is learning of words in my opinion. 
 
 
 
