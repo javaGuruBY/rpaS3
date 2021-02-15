@@ -27,7 +27,6 @@ COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE
 4 I [don't] like tea, but today, I [am] drinking it.
 5 It's dark in your room. [Are] you sleeping?
 
-
 VOCABULARY PRACTICE
 TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
