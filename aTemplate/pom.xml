@@ -61,7 +61,7 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <minimum>0.0</minimum>
+                                            <minimum>0.2</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
