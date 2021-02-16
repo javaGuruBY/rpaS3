@@ -8,12 +8,11 @@
     <artifactId>task1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <properties>
-        <sonar.projectKey>javaGuruBY_java-free-stream-5</sonar.projectKey>
-        <sonar.organization>javaguruby</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>d4a43c92cc5b4686b432aa2bcfea10d230cc5b73</sonar.login>
-    </properties>
+  <properties>
+  <sonar.projectKey>BulavaKatsyaryna_RpaS3</sonar.projectKey>
+  <sonar.organization>bulavakatsyaryna</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
     <dependencies>
         <dependency>
