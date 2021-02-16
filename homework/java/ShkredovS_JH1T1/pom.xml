@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.denisabramovdm</groupId>
-    <artifactId>task1_calc</artifactId>
+    <groupId>by.jrr</groupId>
+    <artifactId>task1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <sonar.projectKey>denis-abramov-dm</sonar.projectKey>
-        <sonar.organization>denis-abramov-dm</sonar.organization>
+        <sonar.projectKey>javaGuruBY_java-free-stream-5</sonar.projectKey>
+        <sonar.organization>javaguruby</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>a2dd7d92ba9e6005a489675480a134b2b0628b6d</sonar.login>
+        <sonar.login>d4a43c92cc5b4686b432aa2bcfea10d230cc5b73</sonar.login>
     </properties>
 
     <dependencies>
@@ -21,12 +21,6 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.jetbrains</groupId>
-            <artifactId>annotations</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 
