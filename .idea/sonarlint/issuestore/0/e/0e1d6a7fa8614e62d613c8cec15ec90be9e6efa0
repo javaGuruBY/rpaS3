@@ -1,0 +1,12 @@
+
+;
+java:S1451"&Add or update the header of this file.8«üÒÙú.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùÄûšşÿÿÿÿ
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘8«üÒÙú.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(§÷öÍüÿÿÿÿ8«üÒÙú.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ùÄûšşÿÿÿÿ8«üÒÙú.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘8«üÒÙú.
