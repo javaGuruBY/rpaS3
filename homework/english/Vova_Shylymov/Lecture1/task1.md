@@ -12,63 +12,66 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
-1 Are you usually working on Saturdays?
-2 Listen! Somebody sings.
-3 Look! The sun shines.
-4 He is not using his car every day.
-5 — Where are you coming from?
-— I am from Canada.
-6 What happened? Why do you cry?
+1 Are you usually working on Saturdays? --- Do you usually work on Saturdays?
+2 Listen! Somebody sings --- Listen! Somebody is singing.
+3 Look! The sun shines.--- Look! The sunshine.
+4 He is not using his car every day.--- He doesn't use his car every day.
+5 — Where are you coming from? --- Where are you comming from?
+— I am from Canada. 
+6 What happened? Why do you cry? --- What happened? Why are you crying. 
 
 TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО do/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМЕ)
-1 He is a good musician, but he [...] perform very often.
-2 I [...] go to the gym on Mondays because I usually finish my work very late.
-3 Please turn off the laptop, you [...] using it.
-4 I [...] like tea, but today, I [ ... ] drinking it.
-5 It's dark in your room. [...] you sleeping?
+1 He is a good musician, but he [...] perform very often. --- He is a good musician, but he does perform very often.
+2 I [...] go to the gym on Mondays because I usually finish my work very late. ---  I dont go to the gym on Mondays because I usually finish my work very late.
+3 Please turn off the laptop, you [...] using it. --- Please turn off the laptop, you are not using it.
+4 I [...] like tea, but today, I [ ... ] drinking it. --- I dont like tea, but today, I am drinking it.
+5 It's dark in your room. [...] you sleeping? --- It's dark in your room. Are you sleeping?
 
 
 VOCABULARY PRACTICE
 TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
-1 to execute  
-2 to transfer
-3 to compile
-4 to pass to
-5 to switch
-6 to support
-7 to retool
-8 to implement
-9 to run a program - запустить программу
-10 to enable
-11 to utilize
-12 language features
-13 multithreaded
-14 electronic appliance - электронное устройство
-15 embedded systems - встроенные системы
-16 to complete a course - завершить курс
-17 to require 
-18 optional
-19 assignment
-20 to expand
-21 to assist
-22 to allow
-23 to contain
-24 placeholder
-25 lowercase letter
-26 capital letter 
-27 purpose
+1 to execute - выполнять.
+2 to transfer - перемещать.
+3 to compile - составлять.
+4 to pass to - перейти к.
+5 to switch - переключать.
+6 to support - помогать.
+7 to retool - переделать (переоборудовать).
+8 to implement - применить.
+9 to run a program - запустить программу.
+10 to enable - позволять (давать возможность).
+11 to utilize - использовать.
+12 language features - особенности языка.
+13 multithreaded - многопоточный.
+14 electronic appliance - электронное устройство.
+15 embedded systems - встроенные системы.
+16 to complete a course - завершить курс.
+17 to require - требовать.
+18 optional - необязательный.
+19 assignment - задание.
+20 to expand - расширять.
+21 to assist - поддерживать.
+22 to allow - разрешать.
+23 to contain - содержать.
+24 placeholder ???????????
+25 lowercase letter - строчная (маленькая буква).
+26 capital letter - заглавная буква.
+27 purpose - цель (задача)
 28 variable - переменная
-29 discouraged
-30 to avoid
-31 backlog 
+29 discouraged - перечень задач.
+30 to avoid - избегать.
+31 backlog - нерекомендованный.
 32 analytics engine - аналитическая машина
 33 distibuted search - распределительный поиск
+
 (аналитическая машина, встроенные системы, поле(метка), разрешать, составлять, строчная (маленькая буква), заглавная буква, поддерживать, позволять (давать возможность),
 электронное устройство, перечень задач, использовать, многопоточный, необязательный, избегать, расширять, перемещать, переделать (переоборудовать), цель (задача), 
 особенности языка, помогать, запустить программу, нерекомендованный, задание, применить, распределительный поиск, завершить курс, содержать,требовать,выполнять,перейти к, 
-переменная, переключать)
+переменная, переключать) 
+ 
+ 
 
 TASK 2
 READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ ПРИМЕРЫ СО СЛОВАМИ И ФРАЗАМИ ИЗ ПРЕДЫДУЩЕГО УПРАЖНЕНИЯ) 
@@ -110,11 +113,11 @@ MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ С�
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО/АУДИО ПРЕЗЕНТАЦИЮ В ЧАТЕ СВОЕЙ ГРУППЫ)
-1 What's your name? 
-2 How old are you? 
-3 Where do you live?
-4 What do you do?
-5 What do you like doing in your free time?
-6 Would you like to be a programmer? Why?
-7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? 
+1 What's your name? --- My name is Vova Shylymov.
+2 How old are you? ---  I am 39 years old.
+3 Where do you live? ---- I live in  Vitebsk.
+4 What do you do?  ---- I work as a customer service specialist.
+5 What do you like doing in your free time? --- Meet with my friends and sometimes I like  play the computer games and learn Java.
+6 Would you like to be a programmer? Why? --- Yes of course. I like this profession, and everything that related to it.
+7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? --- Yes, I studied English at school. There is a great desire to know English. At this stage, everything is difficult foo me because my english not good enough. 
 
