@@ -1,73 +1,68 @@
 GRAMMAR PRACTICE
 TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
-1 He [usually has/is usually having] breakfast at 6 a.m.
-2 Anyone who [smokes/is smoking] 20 cigarettes a day can expect to have health problems.
-3 She doesn't like cooking, but today she [bakes/is baking] a pie.
-4 I [finish/am finishing] the project right now.
-5 I [don't listen/am not listening] to rock music very often.
-6  — What [does your sister do/is your sister doing]?
-— She is a programmer.
+1 He usually has breakfast at 6 a.m.
+2 Anyone who smokes 20 cigarettes a day can expect to have health problems.
+3 She doesn't like cooking, but today she is baking a pie.
+4 I am finishing the project right now.
+5 I don't listento rock music very often.
+6 — What does your sister do? — She is a programmer.
 
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
-1 Are you usually working on Saturdays?
-2 Listen! Somebody sings.
-3 Look! The sun shines.
-4 He is not using his car every day.
-5 — Where are you coming from?
-— I am from Canada.
-6 What happened? Why do you cry?
+1 Do you usually work on Saturdays?
+2 Listen! Somebody is singing.
+3 Look! The sun is shining.
+4 He don't use his car every day.
+5 — Where do you come from? — I am from Canada.
+6 What happened? Why are you crying?
 
 TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО dp/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМАХ)
-1 He is a good musician, but he [...] perform very often.
-2 I [...] go to the gym on Mondays because I usually finish my work very late.
-3 Please turn off the laptop, you [...] using it.
-4 I [...] like tea, but today, I [ ... ] drinking it.
-5 It's dark in your room. [...] you sleeping?
+1 He is a good musician, but he doesn't perform very often.
+2 I go to the gym on Mondays because I usually finish my work very late.
+3 Please turn off the laptop, you are not using it.
+4 I doesn`t like tea, but today, I am not drinking it.
+5 It's dark in your room. Are you sleeping?
 
 
 VOCABULARY PRACTICE
 TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
-1 to execute  
-2 to transfer
-3 to compile
-4 to pass to
-5 to switch
-6 to support
-7 to retool
-8 to implement
-9 to run a program
-10 to enable
-11 to utilize
-12 language features
-13 multithreaded
-14 electronic appliance
-15 embedded systems
-16 to complete a course
-17 to require 
-18 optional
-19 assignment
-20 to expand
-21 to assist
-22 to allow
-23 to contain
-24 placeholder
-25 lowercase letter
-26 capital letter 
-27 purpose
-28 variable
-29 discouraged
-30 to avoid
-31 backlog 
-32 analytics engine
-33 distibuted search 
-(аналитическая машина, встроенные системы, поле(метка), разрешать, составлять, строчная (маленькая буква), заглавная буква, поддерживать, позволять (давать возможность),
-электронное устройство, перечень задач, использовать, многопоточный, необязательный, избегать, расширять, перемещать, переделать (переоборудовать), цель (задача), 
-особенности языка, помогать, запустить программу, нерекомендованный, задание, применить, распределительный поиск, завершить курс, содержать,требовать,выполнять,перейти к, 
-переменная, переключать)
+1 to execute - выполнить
+2 to transfer - перемещать
+3 to compile - состовлять
+4 to pass to - перейти к
+5 to switch - переключать
+6 to support - Поддерживать
+7 to retool - переделать (переоборудовать)
+8 to implement - применить
+9 to run a program - запустить программу
+10 to enable - позволять (давать возможность)
+11 to utilize - использовать
+12 language features - особенности языка
+13 multithreaded - многопоточный
+14 electronic appliance - электронное устройство
+15 embedded systems - встроенные системы
+16 to complete a course - завершить курс
+17 to require - требовать
+18 optional - необязательный
+19 assignment - задание
+20 to expand - Расширять
+21 to assist - помгогать
+22 to allow - Разрешать
+23 to contain - Содержать
+24 placeholder - поле(метка)
+25 lowercase letter - строчная буква
+26 capital letter - заглавная буква
+27 purpose - цель(задача)
+28 variable - переменная
+29 discouraged - нерекомендованный
+30 to avoid - избегать
+31 backlog - перечень задач
+32 analytics engine - аналитическая машина
+33 distibuted search - распределительный поиск
+
 
 
 TASK 2
@@ -107,13 +102,36 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 TASK 3
 MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
 
+The more you do difficult things, the more you'll be brilliant at executing them.
+People use technology to transfer information.
+JDK refuses to compile the code.
+He's passed the difficult assignment to the leader.
+It is possible to switch from an English teacher to a programmer, isn't it?
+If you stuck with using this electronic appliance, you need somebody to support you.
+The factory needs to be retooled.
+The class “Fish” implements the interface “Swimmable”.
+To run a program you need the JRE.
+The debugger enables us to understand the algorithm of a program.
+I wish I can utilize new java features.
+For the present I don’t know, what multi-threaded program means.
+An embedded system controls physical operations of the machine.
+I need to work hard, if I want to complete this course.
+This profession requires a great responsibility.
+You don’t have to visit optional lessons.
+Space exploration expands human’s vision of life.
+Could you assist me by executing of this backlog?
+Women often allows their emotions to control them.
+This program contains a bag.
+I need to make this variable private, because it is discouraged to use public variable in such position.
+I have to avoid working all night, because it’s not healthy.
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО.АУДИО ПРЕДСТАВЛЕНИЯ В ЧАТЕ СВОЕЙ ГРУППЫ)
-1 What's your name? 
-2 How old are you? 
-3 Where do you live?
-4 What do you do?
-5 What do you like doing in your free time?
-6 Would you like to be a programmer? Why?
+1 What's your name? My name is Kirill.
+2 How old are you? I'm 26 years old.
+3 Where do you live? I live is minsk oblast.
+4 What do you do? I am a road worker.
+5 What do you like doing in your free time? I like electronic kit and programming.
+6 Would you like to be a programmer? Why? Yes, I would. This job implies friendly working conditions, is in high demand, well-paid and develops your mind.
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English?
+Previously, I studied but not seriously, now I see it makes a lot of sense to replenish the vocabulary and systematize knowledge
