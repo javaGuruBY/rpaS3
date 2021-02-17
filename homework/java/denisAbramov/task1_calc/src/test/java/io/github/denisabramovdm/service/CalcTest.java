@@ -22,12 +22,17 @@ public class CalcTest {
 
 
 
-    @Test
+  /*  @Test
     public void calc_test() {
        calcal.calculating(user_inputs);
         Assert.assertEquals(100.0, user_inputs.getResult(), 5);
 
 
-   }
+   }*/
 
+    @Test
+    public void calculating() {
+        calcal.calculating(user_inputs);
+        Assert.assertEquals(100.0, user_inputs.getResult(), 5);
+    }
 }

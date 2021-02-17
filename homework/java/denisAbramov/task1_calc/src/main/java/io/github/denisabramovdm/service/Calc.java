@@ -13,7 +13,7 @@ public class Calc {
     }
 
 
-    public void calculating(@org.jetbrains.annotations.NotNull Inputs inputs){
+    public void calculating( Inputs inputs){
     switch (inputs.getOperation()) {
         case "+": {inputs.setResult(inputs.getNumber1() + inputs.getNumber2());
         break;}
@@ -29,7 +29,7 @@ public class Calc {
     System.out.println(inputs.getResult());
 }
 
-    public void inputing(@org.jetbrains.annotations.NotNull Inputs inputs){
+    public void inputing( Inputs inputs){
         System.out.println("Введите первое число");
         Scanner in = new Scanner(System.in);
         inputs.setNumber1(in.nextDouble());
