@@ -1,4 +1,4 @@
-package by.jrr.start;
+package by.jrr;
 
 import java.util.Random;
 import java.security.SecureRandom;
