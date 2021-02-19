@@ -9,6 +9,7 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 4 I am finishing the project right now.
 5 I don't listen to rock music very often.
 6  — What does your sister do?
+— She is a programmer.
 
 VOCABULARY PRACTICE TASK 1 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ) 
 1 to execute выполнять 
@@ -53,7 +54,7 @@ CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ О
 2 Listen! Somebody sings. -> Listen! Somebody is singing.
 3 Look! The sun shines. -> Look! The sun is shining.
 4 He is not using his car every day. -> He doesn't use his car every day
-5 — Where are you coming from? — I am from Canada. -> - Where are you from? - I am from Canafa.
+5 — Where are you coming from? — I am from Canada. -> - Where are you from? - I am from Canada.
 6 What happened? Why do you cry? -> What happened? Why are you crying?
 
 TASK3
