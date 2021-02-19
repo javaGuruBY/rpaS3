@@ -49,22 +49,22 @@ TASK2
 
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
 
-1 Are you usually working on Saturdays? -> Do you usually working on Saturdays?
+1 Are you usually working on Saturdays? -> Do you usually work on Saturdays?
 2 Listen! Somebody sings. -> Listen! Somebody is singing.
 3 Look! The sun shines. -> Look! The sun is shining.
 4 He is not using his car every day. -> He doesn't use his car every day
 5 — Where are you coming from? — I am from Canada. -> - Where are you from? - I am from Canafa.
-6 What happened? Why do you cry? -> What happened? Why do you crying?
+6 What happened? Why do you cry? -> What happened? Why are you crying?
 
 TASK3
 
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО dp/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМАХ)
 
 1 He is a good musician, but he [doesn't] perform very often.
-2 I [am] go to the gym on Mondays because I usually finish my work very late.
+2 I [don't] go to the gym on Mondays because I usually finish my work very late.
 3 Please turn off the laptop, you [are] using it.
-4 I [do] like tea, but today, I [am] drinking it.
-5 It's dark in your room. [Are] you sleeping?
+4 I [don't] like tea, but today, I [am] drinking it.
+5 It's dark in your room. [Aren't] you sleeping?
 
 TASK 2
 READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ ПРИМЕРЫ СО СЛОВАМИ И ФРАЗАМИ ИЗ ПРЕДЫДУЩЕГО УПРАЖНЕНИЯ) 
@@ -111,7 +111,7 @@ ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GRO
 1 What's your name? - My name is Alex
 2 How old are you? - I am 30 years old
 3 Where do you live? - I live in Grodno
-4 What do you do? - I doing my english homework
+4 What do you do? - I am hardworking.
 5 What do you like doing in your free time? - In my free time i like to watch films.
 6 Would you like to be a programmer? Why? -  I like to work with computers.
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? - Yes, i did. I learned at school. I would like to rise my skills. The hardest is continious learn it every day.
