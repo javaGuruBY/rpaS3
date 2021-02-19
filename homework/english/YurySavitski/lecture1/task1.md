@@ -1,73 +1,70 @@
 GRAMMAR PRACTICE
 TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
-1 He [usually has/is usually having] breakfast at 6 a.m.
-2 Anyone who [smokes/is smoking] 20 cigarettes a day can expect to have health problems.
-3 She doesn't like cooking, but today she [bakes/is baking] a pie.
-4 I [finish/am finishing] the project right now.
-5 I [don't listen/am not listening] to rock music very often.
-6  — What [does your sister do/is your sister doing]?
-— She is a programmer.
+1 He [usually has] breakfast at 6 a.m.
+2 Anyone who [smokes] 20 cigarettes a day can expect to have health problems.
+3 She doesn't like cooking, but today she [is baking] a pie.
+4 I [am finishing] the project right now.
+5 I [don't listen] to rock music very often.
+6  — What [does your sister do]?
+— She is a programmer.
 
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
-1 Are you usually working on Saturdays?
-2 Listen! Somebody sings.
-3 Look! The sun shines.
-4 He is not using his car every day.
-5 — Where are you coming from?
+1 Do you usually work on Saturdays?
+2 Listen! Somebody is singing.
+3 Look! The sun is shining.
+4 He does not use his car every day.
+5 — Where do you come from?
 — I am from Canada.
-6 What happened? Why do you cry?
+6 What happened? Why are you crying?
 
 TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО do/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМЕ)
-1 He is a good musician, but he [...] perform very often.
-2 I [...] go to the gym on Mondays because I usually finish my work very late.
-3 Please turn off the laptop, you [...] using it.
-4 I [...] like tea, but today, I [ ... ] drinking it.
-5 It's dark in your room. [...] you sleeping?
+1 He is a good musician, but he [does not] perform very often.
+2 I [don't] go to the gym on Mondays because I usually finish my work very late.
+3 Please turn off the laptop, you [aren't] using it.
+4 I [don't] like tea, but today, I [ am ] drinking it.
+5 It's dark in your room. [Are] you sleeping?
 
 
 VOCABULARY PRACTICE
 TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
-1 to execute  
-2 to transfer
-3 to compile
-4 to pass to
-5 to switch
-6 to support
-7 to retool
-8 to implement
-9 to run a program
-10 to enable
-11 to utilize
-12 language features
-13 multithreaded
-14 electronic appliance
-15 embedded systems
-16 to complete a course
-17 to require 
-18 optional
-19 assignment
-20 to expand
-21 to assist
-22 to allow
-23 to contain
-24 placeholder
-25 lowercase letter
-26 capital letter 
-27 purpose
-28 variable
-29 discouraged
-30 to avoid
-31 backlog 
-32 analytics engine
-33 distibuted search 
-(аналитическая машина, встроенные системы, поле(метка), разрешать, составлять, строчная (маленькая буква), заглавная буква, поддерживать, позволять (давать возможность),
-электронное устройство, перечень задач, использовать, многопоточный, необязательный, избегать, расширять, перемещать, переделать (переоборудовать), цель (задача), 
-особенности языка, помогать, запустить программу, нерекомендованный, задание, применить, распределительный поиск, завершить курс, содержать,требовать,выполнять,перейти к, 
-переменная, переключать)
+1 to execute   -   выполнять
+2 to transfer   -   перемещать
+3 to compile   -   составлять
+4 to pass to   -   перейти к
+5 to switch   -   переключать
+6 to support   -   поддерживать
+7 to retool   -   переделать (переоборудовать)
+8 to implement   -   применить
+9 to run a program   -   запустить программу
+10 to enable   -   позволять (давать возможность)
+11 to utilize   -   использовать
+12 language features   -   особенности языка
+13 multithreaded   -   многопоточный
+14 electronic appliance   -   электронное устройство
+15 embedded systems   -   встроенные системы
+16 to complete a course   -   завершить курс
+17 to require   -   требовать
+18 optional   -   необязательный
+19 assignment   -   задание
+20 to expand   -   расширять
+21 to assist   -   помогать
+22 to allow   -   разрешать
+23 to contain   -   содержать
+24 placeholder   -   поле(метка)
+25 lowercase letter   -   строчная (маленькая буква)
+26 capital letter   -   заглавная буква
+27 purpose   -   цель (задача)
+28 variable   -   переменная
+29 discouraged   -   нерекомендованный
+30 to avoid   -   избегать
+31 backlog   -   перечень задач
+32 analytics engine   -   аналитическая машина
+33 distributed search   -   распределительный поиск
+
 
 
 TASK 2
@@ -102,10 +99,18 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 28 JavaScript variables are containers for storing data values.
 29 Use of Perl/shell style comments ( ) is discouraged.
 30 He's a good programmer and can give you some tips to avoid common coding mistakes. 
-31 I have a big backlog of work to do.
+31 I have a big backlog of work to do.
+
 
 TASK 3
 MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
+
+Ships transfer cargo.
+TV remote helps to switch TV channels.
+Charger enables you to charge electronic appliances.
+You need to execute unresolved assignments before completing optional tasks.
+Pioneers assist grandmas cross the roads.
+Analytics engine is executing multithreaded computations.
 
 
 SPEAKING PRACTICE
@@ -117,15 +122,3 @@ ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GRO
 5 What do you like doing in your free time?
 6 Would you like to be a programmer? Why?
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? 
-
-
-
-
-
-
-
-
- 
-
-
-

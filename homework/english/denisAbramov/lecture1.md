@@ -6,24 +6,22 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 3 She doesn't like cooking, but today she is baking a pie.
 4 I am finishing the project right now.
 5 I don't listen to rock music very often.
-6  — What does your sister do?
-— She is a programmer.
+6  — What is your sister doing?  — She is a programmer.
 
 TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
-1 Do you usually work on Saturdays?
+1 Do you usually works on Saturdays?
 2 Listen! Somebody is singing.
 3 Look! The sun is shining.
-4 He doesn't use his car every day.
-5 — Where are you  from?
-— I am from Canada.
+4 He does not use his car every day.
+5 — Where are you from? — I am from Canada.
 6 What happened? Why are you crying?
 
 TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО dp/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМАХ)
 1 He is a good musician, but he doesn't perform very often.
-2 I don't go to the gym on Mondays because I usually finish my work very late.
-3 Please turn off the laptop, you aren't using it.
+2 I doesn't go to the gym on Mondays because I usually finish my work very late.
+3 Please turn off the laptop, you don't using it.
 4 I don't like tea, but today, I am drinking it.
 5 It's dark in your room. Are you sleeping?
 
@@ -31,40 +29,40 @@ COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE
 VOCABULARY PRACTICE
 TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
-1 to execute  выполнять,
-2 to transfer   перемещать,
-3 to compile    применить,
-4 to pass to   перейти к,
-5 to switch        переключать
-6 to support        поддерживать,
-7 to retool          переделать
-8 to implement   составлять, 
-9 to run a program  запустить программу,
-10 to enable         разрешать, 
-11 to utilize          использовать,
-12 language features    особенности языка,
-13 multithreaded         многопоточный,
-14 electronic appliance  электронное устройство,
-15 embedded systems       встроенные системы,
-16 to complete a course    завершить курс,
-17 to require   требовать,
-18 optional    необязательный,
-19 assignment    задание,
-20 to expand      расширять,
-21 to assist       помогать,
-22 to allow        позволять (давать возможность),
-23 to contain      содержать,
-24 placeholder      поле(метка),
-25 lowercase letter  строчная (маленькая буква)
-26 capital letter    заглавная буква,
-27 purpose           цель (задача),
-28 variable            переменная, 
-29 discouraged     нерекомендованный,
-30 to avoid        избегать,
-31 backlog        перечень задач,
-32 analytics engine    аналитическая машина,
-33 distibuted search   распределительный поиск,
-(               )
+1 to execute  -- выполнять
+2 to transfer  -- перемещать
+3 to compile  -- составлять
+4 to pass to  -- перейти к
+5 to switch  -- переключать
+6 to support  -- поддерживать
+7 to retool -- переделать (переоборудовать)
+8 to implement -- применить
+9 to run a program  -- запустить программу
+10 to enable --  разрешать
+11 to utilize -- использовать
+12 language features -- особенности языка
+13 multithreaded  -- многопоточный
+14 electronic appliance  -- электронное устройство
+15 embedded systems -- встроенные системы
+16 to complete a course  -- завершить курс
+17 to require  -- требовать
+18 optional  -- необязательный
+19 assignment -- задание
+20 to expand  -- расширять
+21 to assist  -- помогать
+22 to allow  -- позволять (давать возможность)
+23 to contain  -- содержать
+24 placeholder -- поле(метка)
+25 lowercase letter -- строчная (маленькая буква)
+26 capital letter  -- заглавная буква
+27 purpose  -- цель (задача)
+28 variable  -- переменная
+29 discouraged -- нерекомендованный
+30 to avoid  -- избегать
+31 backlog -- перечень задач
+32 analytics engine -- аналитическая машина
+33 distibuted search  -- распределительный поиск
+
 
 
 TASK 2
@@ -103,14 +101,23 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 
 TASK 3
 MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
+1. If your code is right the programm will be executed successfully.
+2. Can U transfer my files from this USB-flash to your computer please?
+3. U should to compile the code before running a programm.
+4. If your energy source is out of order U should switch to another.
+5. Support of programm software is very important part of programming.
+6. U should no to require executing optional assignments from backlog.
+7. Avoid of using discouraged variables to reach your purposes because of language features and complete a course.
+
+
 
 
 SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО.АУДИО ПРЕДСТАВЛЕНИЯ В ЧАТЕ СВОЕЙ ГРУППЫ)
-1 What's your name? my name is Vasili
-2 How old are you? I am 33 years
-3 Where do you live? I live in Mozyr? Belarus
-4 What do you do? I am engineer
-5 What do you like doing in your free time? I don't have free time ))
-6 Would you like to be a programmer? Why? Yes? I do. I want change my life
-7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? Yes, I did. Yes, of course. I don't have practice
+1 My name is Denis.
+2 I'm 29 years old. 
+3 I live in Minsk.
+4 I'm learning java.
+5 In my free time I like to travel.
+6 I would like to be a programmer, because it is very interesting and profitable.
+7 I learned English at school, college and university. I would you like to improve my English. The hardest thing about learning English as for me is to find native English-speaking people.
