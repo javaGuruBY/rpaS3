@@ -1,6 +1,5 @@
 # Homework 1
 ## GRAMMAR PRACTICE
-'''
 ### TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 1 He [usually has] breakfast at 6 a.m.
@@ -33,6 +32,7 @@ COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE
 ## VOCABULARY PRACTICE
 ### TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
+<p>
 1 to execute                выполнять
 2 to transfer               перемещать
 3 to compile                составлять
@@ -66,6 +66,7 @@ MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СП�
 31 backlog                  перечень задач
 32 analytics engine         аналитическая машина
 33 distibuted search        распределительный поиск
+ </p>
 
 
 
@@ -116,4 +117,4 @@ ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GRO
 5 What do you like doing in your free time? In my free time I learn programming and English.
 6 Would you like to be a programmer? Why? Because I like it.
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? Yes, I learned English before and I would like to improve it. The hardest thing is to remember the words connected with IT.
-'''
+
