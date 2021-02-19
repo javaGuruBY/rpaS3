@@ -12,7 +12,7 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 
 ### TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
-1 Are you usually working on Saturdays?
+1 Do you usually work on Saturdays?
 2 Listen! Somebody is singing.
 3 Look! The sun is shining.
 4 He do not use his car every day.
