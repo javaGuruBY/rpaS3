@@ -31,6 +31,7 @@ COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE
 
 ## VOCABULARY PRACTICE
 ### TASK 1
+```
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
 1 to execute                выполнять
 2 to transfer               перемещать
@@ -65,7 +66,7 @@ MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СП�
 31 backlog                  перечень задач
 32 analytics engine         аналитическая машина
 33 distibuted search        распределительный поиск
- 
+``` 
 
 
 ### TASK 2
