@@ -114,4 +114,4 @@ ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GRO
 4 What do you do? - I am hardworking.
 5 What do you like doing in your free time? - In my free time i like to watch films.
 6 Would you like to be a programmer? Why? -  I like to work with computers.
-7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? - Yes, i did. I learned at school. I would like to rise my skills. The hardest is continious learn it every day.
+7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? - Yes, i did. I studied English at school. I would like to rise my skills. It's hard to continue learning every day.
