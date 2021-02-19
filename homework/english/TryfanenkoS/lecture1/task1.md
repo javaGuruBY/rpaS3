@@ -1,6 +1,7 @@
 # Homework 1
-GRAMMAR PRACTICE
-TASK1
+## GRAMMAR PRACTICE
+'''
+### TASK1
 CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 1 He [usually has] breakfast at 6 a.m.
 2 Anyone who [smokes] 20 cigarettes a day can expect to have health problems.
@@ -10,7 +11,7 @@ CHOOSE THE RIGHT OPTION (ВЫБЕРИТЕ ПРАВИЛЬНЫЙ ВАРИАНТ).
 6  — What [does your sister do]?
 — She is a programmer.
 
-TASK2
+### TASK2
 CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ ОШИБКИ)
 1 Are you usually working on Saturdays?
 2 Listen! Somebody is singing.
@@ -20,7 +21,7 @@ CORRECT THE GRAMMAR MISTAKES (ИСПРАВЬТЕ ГРАММАТИЧЕСКИЕ О
 — I am from Canada.
 6 What happened? Why are you criing?
 
-TASK3
+### TASK3
 COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE FORM (ЗАПОЛНИТЕ ПРОПУСКИ ГЛАГОЛАМИ am/is/are ЛИБО do/does В УТВЕРДИТ. ИЛИ ОТРИЦАТ. ФОРМЕ)
 1 He is a good musician, but he [don't] perform very often.
 2 I [don't] go to the gym on Mondays because I usually finish my work very late.
@@ -29,8 +30,8 @@ COMPLETE THE SENTANCES WITH (am/is/are) OR (do,does) IN THE POSITIVE OR NEGATIVE
 5 It's dark in your room. [Are] you sleeping?
 
 
-VOCABULARY PRACTICE
-TASK 1
+## VOCABULARY PRACTICE
+### TASK 1
 MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СПИСКА С РУССКИМ ПЕРЕВОДОМ)
 1 to execute                выполнять
 2 to transfer               перемещать
@@ -68,7 +69,7 @@ MATCH THE WORDS TO THEIR TRANSLATION (СОВМЕСТИТЕ СЛОВА ИЗ СП�
 
 
 
-TASK 2
+### TASK 2
 READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ ПРИМЕРЫ СО СЛОВАМИ И ФРАЗАМИ ИЗ ПРЕДЫДУЩЕГО УПРАЖНЕНИЯ) 
 1 The task must be executed correctly and completely. 
 2 She assisted her brother with his homework. 
@@ -102,11 +103,11 @@ READ THE WORDS WITH EXAMPLES FROM THE PREVIOUS EXERCISE (ПРОЧИТАЙТЕ П
 30 He's a good programmer and can give you some tips to avoid common coding mistakes. 
 31 I have a big backlog of work to do.
 
-TASK 3
+### TASK 3
 MAKE YOUR OWN EXAMPES WITH THE VOCABULARY OF THE SECTION (ПОСТРОЙТЕ СВОИ ПРЕДЛОЖЕНИЯ СО СЛОВАМИ ИЗ СЕКЦИИ). 
 
 
-SPEAKING PRACTICE
+### SPEAKING PRACTICE
 ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GROUP. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОПУБЛИКУЙТЕ ВИДЕО/АУДИО ПРЕЗЕНТАЦИЮ В ЧАТЕ СВОЕЙ ГРУППЫ)
 1 What's your name? I'm Stepan. 
 2 How old are you? I'm 29.
@@ -115,3 +116,4 @@ ANSWER THE QUESTIONS. INTRODUCE YOURSELF. POST YOUR VIDEO/AUDIO IN YOUR CHAT GRO
 5 What do you like doing in your free time? In my free time I learn programming and English.
 6 Would you like to be a programmer? Why? Because I like it.
 7 Did you learn English before? Would you like to improve your English? What is the hardest thing about learning English? Yes, I learned English before and I would like to improve it. The hardest thing is to remember the words connected with IT.
+'''
