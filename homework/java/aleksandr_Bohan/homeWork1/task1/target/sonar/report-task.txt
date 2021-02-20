@@ -1,0 +1,7 @@
+organization=aleksandrbohan
+projectKey=Aleksandr-Bohan
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.17424
+dashboardUrl=https://sonarcloud.io/dashboard?id=Aleksandr-Bohan
+ceTaskId=AXfBNHqQQGNgx4AiIiY8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXfBNHqQQGNgx4AiIiY8

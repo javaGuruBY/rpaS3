@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76507dff-2e23-4a71-87b2-ecb445abae29" name="Default Changelist" comment="It is commit for hw1 task1 tested by sonar.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/task1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/task1-1.0-SNAPSHOT.jar" afterDir="false" />
-    </list>
+    <list default="true" id="76507dff-2e23-4a71-87b2-ecb445abae29" name="Default Changelist" comment="It is commit for hw1 task1 tested by sonar. It is improve." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613849128464</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="It is commit for hw1 task1 tested by sonar. It is improve.">
+      <created>1613853698301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613853698301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +125,8 @@
     <MESSAGE value="Inital commit for rpa project" />
     <MESSAGE value="Inital commit for rpa project1" />
     <MESSAGE value="It is commit for hw1 task1 tested by sonar." />
-    <option name="LAST_COMMIT_MESSAGE" value="It is commit for hw1 task1 tested by sonar." />
+    <MESSAGE value="It is commit for hw1 task1 tested by sonar. It is improve." />
+    <option name="LAST_COMMIT_MESSAGE" value="It is commit for hw1 task1 tested by sonar. It is improve." />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613670731855">
@@ -141,10 +145,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613831506075" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613849293715">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613853998204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613849293715" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613853998204" />
     <state x="125" y="141" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1613852930926">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
