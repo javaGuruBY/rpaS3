@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76507dff-2e23-4a71-87b2-ecb445abae29" name="Default Changelist" comment="Inital commit for rpa project1">
+      <change afterPath="$PROJECT_DIR$/.idea/daily git Sasha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/src/main/java/by/jrr/start/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/src/test/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/classes/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/classes/by/jrr/start/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/sonar/.sonar_lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/target/task1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1/task1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTemplate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aTemplate/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="javaGuruBY" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="rpaS3" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1obAkzIfXHsxXuCNyziB0xJCKpC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/java/aleksandr_Bohan/homeWork1/task1" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelijIDEA Products\rpaS3\daily git Sasha\homework\java\aleksandr_Bohan\homeWork1\task1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76507dff-2e23-4a71-87b2-ecb445abae29" name="Default Changelist" comment="" />
+      <created>1613545063994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613545063994</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Inital commit for rpa project">
+      <created>1613578170967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613578170967</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inital commit for rpa project">
+      <created>1613670492328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613670492328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inital commit for rpa project" />
+    <MESSAGE value="Inital commit for rpa project1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inital commit for rpa project1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613670731855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1613670731855" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613847721045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613847721045" />
+    <state x="516" y="279" key="Github.CreatePullRequestDialog" timestamp="1613578784953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="279" key="Github.CreatePullRequestDialog/0.0.1536.824@0.0.1536.824" timestamp="1613578784953" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1613831506075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613831506075" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613578281885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613578281885" />
+    <state x="551" y="201" key="git4idea.merge.GitMergeDialog" timestamp="1613757017872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="201" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1613757017872" />
+    <state x="209" y="33" key="new project wizard" timestamp="1613545475935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613545475935" />
+  </component>
+</project>
