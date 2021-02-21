@@ -48,11 +48,11 @@ public class DogDemo {
         }
 
         public void voice(){
-            System.out.println(name+" is barking");
+            System.out.println(name +" is barking");
         }
 
         public void eat(){
-            System.out.println("My name is " + name + ". I'm " +age+ " year old and i'm eating.");
+            System.out.println("My name is " + name + ". I'm " + age + " year old and i'm eating.");
         }
 
         public void sleep() {
