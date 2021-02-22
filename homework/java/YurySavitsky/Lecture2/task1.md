@@ -1,7 +1,7 @@
 Придумать названия для следующих переменных:
 
 Количество кораблей в порту  -  numberOfShipsInPort
-Счетчик целых чисел  -  integerCounter
+Счетчик целых чисел  -  wholeNumberCounter
 Первое число  -  firstNumber
 Ответ на вопрос  -  answerTheQuestion
 Случайное число  -  randomNumber
