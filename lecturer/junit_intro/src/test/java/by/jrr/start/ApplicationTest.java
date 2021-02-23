@@ -10,10 +10,13 @@ public class ApplicationTest {
     @Test
     public void main() {
 
-        int expected = 1;
+        int expected = 2;
 
         int actual = Integer.valueOf("2");
 
         Assert.assertEquals("Failed", expected, actual);
+    }
+
+    public void testTestMain() {
     }
 }

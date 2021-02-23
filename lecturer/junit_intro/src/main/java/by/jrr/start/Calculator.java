@@ -4,12 +4,12 @@ public class Calculator {
 
     private int result;
 
-    public int sum(int a, int b) {
-        return a + b;
+    public int multiplikation(int a, int b) {
+        return a * b;
     }
 
-    public int subs(int a, int b) {
-        return a - b;
+    public int division(int a, int b) {
+        return a/b;
     }
 
     public int getResult() {
