@@ -9,11 +9,13 @@ public class ApplicationTest {
 
     @Test
     public void main() {
-
-        int expected = 1;
-
-        int actual = Integer.valueOf("2");
-
+int expected = 2;
+int actual = Integer.valueOf("2");
+        if(expected != actual){
+            throw new RuntimeException("Test failed");
+        }
         Assert.assertEquals("Failed", expected, actual);
     }
+
+
 }
