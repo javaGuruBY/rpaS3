@@ -20,9 +20,7 @@ public class LoginServiceTest {
     public void checkUserPassword_positive(){
 
         String userInput = "password";
-
         boolean actualResult = loginService.checkUserPassword(user, userInput);
-
         Assert.assertTrue(actualResult);
     }
 
@@ -32,9 +30,7 @@ public class LoginServiceTest {
     public void checkUserPassword_negative(){
 
         String userInput = "wrongPassword";
-
         boolean actualResult = loginService.checkUserPassword(user, userInput);
-
         Assert.assertFalse(actualResult);
     }
 
