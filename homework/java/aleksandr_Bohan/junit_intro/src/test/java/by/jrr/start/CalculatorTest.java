@@ -34,11 +34,17 @@ public class CalculatorTest {
 
     @Test
     public void testDivision() {
+
         int a = 12;
         int b = 4;
         int expected = 3;
-        int actual = calculator.division(a,b);
-        assertEquals(expected, actual);
+        if (b != 0) {
+
+            int actual = calculator.division(a, b);
+            assertEquals(expected, actual);
+        } else {
+            throw new ArithmeticException("This test was failed because of division by zero!!");
+        }
     }
 
     @Test
@@ -46,7 +52,7 @@ public class CalculatorTest {
         int a = 3;
         int b = 4;
         int expected = 12;
-        int actual = calculator.multiplikation(a,b);
+        int actual = calculator.multiplikation(a, b);
         assertEquals(expected, actual);
     }
 
@@ -55,11 +61,11 @@ public class CalculatorTest {
         int a = 3;
         int b = 4;
         int c = 2;
-        int expected = 0;
+        int expected = 6;
+        calculator.setResult(calculator.multiplikation(a, b));
+        calculator.setResult(calculator.division(calculator.getResult(), c));
         int actual = calculator.getResult();
         assertEquals(expected, actual);
-        calculator.setResult(calculator.multiplikation(a,b));
-        calculator.setResult(calculator.division(calculator.getResult(),c));
     }
 
     @Test
@@ -67,11 +73,11 @@ public class CalculatorTest {
         int a = 6;
         int b = 3;
         int c = 2;
-        int expected = 0;
+        int expected = 4;
+        calculator.setResult(calculator.division(a, b));
+        calculator.setResult(calculator.multiplikation(calculator.getResult(), c));
         int actual = calculator.getResult();
         assertEquals(expected, actual);
-        calculator.setResult(calculator.division(a,b));
-        calculator.setResult(calculator.multiplikation(calculator.getResult(),c));
     }
 
 
