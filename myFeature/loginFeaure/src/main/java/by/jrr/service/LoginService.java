@@ -3,36 +3,45 @@ package by.jrr.service;
 import by.jrr.bean.User;
 
 public class LoginService {
-    public boolean checkUserPassword(User user, String userInput) {
+    public boolean login(User user, String userInput) {
+        if(!user.isBlocked()){
+            boolean result = checkUserPassword(user, userInput);
+            updateUserStatus(user, result);
+            return result;
+        }
+        return false;
+    }
+
+    void updateUserStatus(User user, boolean result) {
+        if(result){
+            restoreAttempts(user);
+        } else {
+            reduceLoginAttempts(user);
+            blockIfLoginAttemptsExeeded(user);
+        }
+    }
+
+    void blockIfLoginAttemptsExeeded(User user) {
+        if(user.getLoginAttempts()==0) {
+            blockUser(user);
+        }
+    }
+
+    private boolean checkUserPassword(User user, String userInput) {
         return user.getPassword().equals(userInput);
     }
 
-    public void reduceLoginAttempts(User user) {
+    private void reduceLoginAttempts(User user) {
         user.setLoginAttempts(user.getLoginAttempts() - 1);
     }
 
-    public boolean login(User user, String userInput) {
-        if(user.isBlocked()){
-            return false;
-        }
 
-        if(user.getLoginAttempts()==1) {
-            blockUser(user);
-        }
 
-        reduceLoginAttempts(user);
-        boolean result = checkUserPassword(user, userInput);
-        if(result){
-            restoreAttempts(user);
-        }
-        return result;
-    }
-
-    public void blockUser(User user) {
+    private void blockUser(User user) {
         user.setBlocked(true);
     }
 
-    public void restoreAttempts(User user) {
+    private void restoreAttempts(User user) {
         user.setLoginAttempts(3);
     }
 }
