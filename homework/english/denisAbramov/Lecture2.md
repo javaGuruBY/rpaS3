@@ -1,22 +1,23 @@
 GRAMMAR PRACTICE
 
 1 MATCH THE SENTENCES TO FORM LOGICAL PAIRS (СОВМЕСТИ ВЫСКАЗЫВАНИЯ ПО СМЫСЛУ)
-Steve is ambitious. - I'll send it back to the shop. 
-The sofa is too big. - I'll help him to get the position.
-I don't really like Jack. - I'll rent an office for us there. 
-Let's go to the party. - I won't invite him over for lunch tomorrow. 
-They're building a new skyscraper. -I'll give you mine.
-My laptop is broken. - I'll give you my little black dress to wear.
+Steve is ambitious. -  I'll help him to get the position.
+The sofa is too big. - I'll give you mine.
+I don't really like Jack. -  I won't invite him over for lunch tomorrow.
+Let's go to the party. - I'll give you my little black dress to wear.
+They're building a new skyscraper. - I'll rent an office for us there.
+My laptop is broken. - I'll send it back to the shop.
+
 
 2 COMPLETE THE SENTENCES WITH CORRECT FORMS. USE will or won't for predictions. (ПОСТАВЬ ГЛАГОЛЫ В ПРАВИЛЬНУЮ ФОРМУ. ИСПОЛЬЗУЙ will либо won't (will not) для предсказаний). 
-1 We don't think Trump (to win) the next election.
-2 (It to snow) this winter?
-3 I'm sure the theatre (to be crowded) tonight.
-4 When (the film to end)?
-5 Jenny (not to find) a new job so fast.
-6 The new security system (to protect) our customers better.
-7 When (to change) to the new security system?
-8 (The new system to have) a firewall? 
+1 We don't think Trump will win the next election.
+2 Will it snow this winter?
+3 I'm sure the theatre will be crowded tonight.
+4 When will the film end?
+5 Jenny won't find a new job so fast.
+6 The new security system will protect our customers better.
+7 When will change to the new security system?
+8 Will the new system to have a firewall? 
 
 
 3 COMPLETE THE SENTENCES WITH THE CONSTRUCTION be going to. (ДОПОЛНИ ПРЕДЛОЖЕНИЯ КОНСТРУКЦИЕЙ be going to)
