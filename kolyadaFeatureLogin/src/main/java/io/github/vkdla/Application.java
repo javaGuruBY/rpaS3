@@ -1,4 +1,4 @@
-
+package io.github.vkdla;
 
 
 public class Application {
