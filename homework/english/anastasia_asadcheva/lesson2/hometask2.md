@@ -38,7 +38,7 @@ TASK 4
 COMPLETE THE GAPS WITH will OR be going to (ИСПОЛЬЗУЙ В ПРЕДЛОЖЕНИЯХ will либо BE GOING TO)
 
 1. — What are Mike's plans for the summer?  
-— Well, first he is going to stay with a friend in Italy, and then he will travel round France and Spain.
+— Well, first he is going to stay with a friend in Italy, and then he is going to travel round France and Spain.
 
 2. — Here's my phone number.  
 — Thanks. I will call you tomorrow morning.
