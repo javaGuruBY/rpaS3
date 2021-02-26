@@ -21,101 +21,67 @@ My laptop is broken. - I'll send it back to the shop.
 
 
 3 COMPLETE THE SENTENCES WITH THE CONSTRUCTION be going to. (ДОПОЛНИ ПРЕДЛОЖЕНИЯ КОНСТРУКЦИЕЙ be going to)
-1 I (to learn) to write programs.
-2 Michael (to be late) for the meeting.
-3 What (to do) tonight?
-4 I'm (not to get up) early tomorrow.
-5 How long (to stay) in London?
-6 I (to finish) writing the report in the evening.
+1 I am going to learn to write programs.
+2 Michael is going to be late for the meeting.
+3 What are you going to do tonight?
+4 I'm not going to get up early tomorrow.
+5 How long are you going to stay in London?
+6 I'm going to finish writing the report in the evening.
 
 
 4 COMPLETE THE GAPS WITH will OR be going to (ИСПОЛЬЗУЙ В ПРЕДЛОЖЕНИЯХ will либо BE GOING TO)
 1 What are Mike's plans for the summer?
-— Well, first he (to stay) with a friend in Italy, and then he (to travel round) France and Spain.
+— Well, first he will stay with a friend in Italy, and then he is going to travel round France and Spain.
 
 2 — Here's my phone number.
-— Thanks. I (to call) you tomorrow morning.
+— Thanks. I will call you tomorrow morning.
 
 3 — How much is this sweater?
 — 24.94.
-— Fine. I (to take) it.
+— Fine. I will take it.
 
 4 — Sorry, I'm not going out tonight.
-— What (to do), then?
-— I (to stay) at home. I have to study.
+— What will you do, then?
+— I will stay at home. I have to study.
 
 VOCABULARY PRACTICE 
 
 1 MATCH THE WORDS TO THEIR TRANSLATIONS (СОВМЕСТИ СЛОВА С ИХ ПЕРЕВОДОМ)
-1 output
-2 to define
-3 modifier
-4 to produce
-5 type
-6 order
-7 access
-8 to accept
-9 integer
-10 to return value
-11 (test) has failed
-12 (test) has passed
-13 to invoke
-14 necessary
-15 template
-16 to equal
-17 to compose
-18 behaviour
-19 expiration date
-20 security code
-21 to expect
-22 to verify
-23 default
-24 keywords
-25 Boolean expression
-26 initial state
-27 to store in the heap
-28 heap memory (space)
-29 statement
-30 inline expression
-31 multiple
-32 to remain
-33 to succeed
-34 condition
+1 output    -результат
+2 to define -определять
+3 modifier  -модификатор
+4 to produce  -производить
+5 type    -тип, разновидность
+6 order    -порядок
+7 access   -доступ
+8 to accept  -принимать
+9 integer   - целое число
+10 to return value  -возвращать предыдущее значение
+11 (test) has failed   -попытка завершилась неудачно
+12 (test) has passed   -попытка завершилась успехом
+13 to invoke   -вызывать
+14 necessary   -необходимый
+15 template   -шаблон
+16 to equal    - равняться, быть равным
+17 to compose   -составлять
+18 behaviour  -поведение
+19 expiration date    -срок годности
+20 security code  -код безопасности
+21 to expect  -ожидать
+22 to verify  -подтверждать, верифицировать
+23 default    -стандартная настройка
+24 keywords  -ключевые слова
+25 Boolean expression  -логическое выражение
+26 initial state   -начальное состояние
+27 to store in the heap -хранить в куче (хранилище)
+28 heap memory (space)  -память с неупорядоченным хранением данных
+29 statement   -утверждение
+30 inline expression   -встроенное выражение
+31 multiple    -множество
+32 to remain   -оставаться
+33 to succeed  -преуспеть
+34 condition   -условие
 
--преуспеть
--условие
--логическое выражение
--ключевые слова
--память с неупорядоченным хранением данных
--хранить в куче (хранилище)
--встроенное выражение
--утверждение
--начальное состояние
--оставаться 
--множество
--шаблон
--вызывать
--необходимый
--срок годности
--составлять
--стандартная настройка
--поведение
--ожидать
--подтверждать, верифицировать
--код безопасности
-- равняться, быть равным
--принимать
--результат
--попытка завершилась неудачно
--модификатор
--возвращать предыдущее значение
-- целое число
--производить
--доступ
--порядок
--попытка завершилась успехом
--тип, разновидность 
--определять
 
 2 READ THE SENTENCES AND ANALIZE HOW WORDS ARE USED IN THE CONTEXT.(ПРОЧИТАЙ ПРЕДЛОЖЕНИЯ И ПРОАНАЛИЗИРУЙ КАК СЛОВА ИСПОЛЬЗОВАНЫ В КОНТЕКСТЕ)
 
