@@ -1,0 +1,216 @@
+GRAMMAR PRACTICE
+
+1 REWRITE THE SENTANCES IN THE PAST WITH YESTERDAY. (ПОСТАВЬТЕ ПРЕДЛОЖЕНИЯ В ПРОШЕДШЕЕ ВРЕМЯ СО СЛОВОМ "YESTERDAY")
+
+1. I use the Internet. — I used the Internet yesterday.
+2. I work with customers. — I (…) with customers yesterday.
+3. Do you read anything about computing? — (…) anything about computing yesterday?
+4. We study English. — We (…) English yesterday.
+5. He doesn't work. — He (…) yesterday.
+6. Does she write reports? — (…) reports yesterday?
+7. They fix software bugs. — They (…) software bugs yesterday.
+
+2 COMPLETE THE SENTANCES WITH A VERB IN THE PAST SIMPLE. (ДОПОЛНИТЕ ПРЕДЛОЖЕНИЯ ГЛАГОЛАМИ В PAST SIMPLE)
+
+1. We (live) in a three-star hotel last year.
+2. They (not book) a table and the restaurant was full.
+3. (You compile) the report for the boss?
+4. Sorry, I (not remember) it was a meeting yesterday.
+5. I (live) in Poland when I worked for EPAM.
+6. Why (want) to be a developer?
+7. He (arrive) late for work and the boss was angry.
+8. (You get) the job in JET BI?
+9. We (don’t have) a daily stand-up yesterday.
+
+3 MATCH THE INFINITIVES WITH THEIR PAST FORMS. (СОПОСТАВЬТЕ ИНФИНИТИВЫ С ИХ ФОРМАМИ ПРОШЕДШЕГО ВРЕМЕНИ)
+
+buy                     -did
+set up                  -went
+sell                    -could
+go                      -saw
+see                     -sold
+do                      -set up 
+can                     -bought
+be                       -was (were)
+
+4 WRITE THE SENTANCES IN THE PAST (ПОСТАВЬТЕ ПРЕДЛОЖЕНИЯ В ПРОШЕДШЕЕ ВРЕМЯ) 
+
+1. They (do) their homework together last night.
+2. Helen (doesn’t  go)  have time to find bugs in her project.
+3. We (meet) in the bar last night.
+4. Jane (sets up) firewalls.
+5. He (sell) his start-up company and (go) to Bali.
+6. I (be) at the conference last week.
+7. He (buy) a brand new laptop.
+8. Bob (can’t) come to the office last week.
+9. She (sees) her friends after work last night.
+10. I (get) a contract with an International IT company.
+
+VOCABULARY PRACTICE
+
+CREATING AN APP
+
+ 1 MATCH THE WORDS TO THEIR DEFINITIONS
+ 
+component
+database
+hardware
+network
+peripheral
+software (package)
+to create a program
+to boot
+to connect
+to disable
+to disconnect
+display
+develop software
+to build (write) an app
+to store data
+
+разработать ПО
+программное обеспечение
+разъединять, отключаться
+сеть
+отображать
+создать приложение
+загружать
+компонент (часть программы)
+соединять
+хранить данные
+база данных
+периферийное устройство 
+создать программу
+отключать, деактивировать
+оборудование
+
+2 READ THE TEXT AND DO THE TEST BELOW. (ПРОЧИТАЙТЕ ТЕКСТ И ПРОВЕРЬТЕ ПОНИМАНИЕ ПРИ ПОМОЩИ ТЕСТА)
+
+"Good morning students! Today I want to talk about application development. As you know, to begin you need a good computer with solid components. Having the right hardware will help you to develop quality software that works without crashing.
+I always follow certain rules when I build a new app:
+1. The data for the application should be stored in a relational database
+2. Customers should be able to buy my application on the Internet
+3. The software should work without any extra peripherals
+4. The program should be designed to work with or without a solid network connection.
+By following these simple rules, you can write great applications that work for everyone.
+
+3 CHOOSE TRUE OR FALSE (ОПРЕДЕЛИТЕ, ЯВЛЯЕТСЯ ЛИ УТВЕРЖДЕНИЕ ВЕРНЫМ)
+
+1. Applications are never software.
+True
+False
+
+2. Components are pieces of hardware.
+True
+False
+
+3. A computer doesn’t work without 
+peripherals.
+True
+False
+
+4 CHOOSE THE CORRECT DEFINITIONS. (ВЫБЕРИТЕ ПРАВИЛЬНЫЕ ОПРЕДЕЛЕНИЯ ДЛЯ СЛОВ)
+
+1. Component
+any device internal to the computer, such as a primary hard disk drive or motherboard
+an electronic, digital device that stores and processes information
+an external computer add-on, such as a printer or a scanner; also known as an 'accessory‘
+2. Hardware
+an electronic, digital device that stores and processes information
+a software program which allows a user to perform specific tasks such as word processing, email, accounting, database management
+physical things that make up a computer, such as a component or a peripheral
+3. Internet
+level four of the seven layers of the OSI Networking model
+the largest known public network in the world, connecting millions of computers around the world
+Redwood Shores, California company founded in 1977 by Larry Ellison and known for developing database software and supply chain management software
+4. Network
+a group of connected computers which share resources
+any program designed to run on a computer
+any device internal to the computer, such as a primary hard disk drive or motherboard
+5. Database
+any program designed to run on a computer
+an organized, electronic collection of information optimized for fast access and typically consisting of rows, columns, indexes, and keys
+any device internal to the computer, such as a primary hard disk drive or motherboard
+6. App or application
+a software program which allows a user to perform specific tasks such as word processing, email, accounting, database management
+any program designed to run on a computer
+any device internal to the computer, such as a primary hard disk drive or motherboard
+7. Software
+literally meaning 'that which is given', this term refers to raw information of any kind
+physical things that make up a computer, such as a component or a peripheral
+any program designed to run on a computer
+8. Data
+physical things that make up a computer, such as a component or a peripheral
+literally meaning 'that which is given', this term refers to raw information of any kind
+an electronic, digital device that stores and processes information
+9. Computer
+an electronic, digital device that stores and processes information
+physical things that make up a computer, such as a component or a peripheral
+any device internal to the computer, such as a primary hard disk drive or motherboard
+10. Peripheral
+an electronic, digital device that stores and processes information
+an external computer add-on, such as a printer or a scanner; also known as an 'accessory‘
+any device internal to the computer, such as a primary hard disk drive or motherboard
+
+5  GUESS THE WORDS. THE FIRST LETTER OF THE WORDS IS GIVEN. (УГАДАЙТЕ СЛОВО ПО ОПРЕДЕЛЕНИЮ. ПЕРВАЯ БУКВА СЛОВА ДАНА ПЕРЕД СКОБКОЙ)  
+
+1. an external computer add-on, such as a printer or a scanner; also known as an 'accessory'
+p (…)
+2. any device internal to the computer, such as a primary hard disk drive or motherboard
+c (…)
+3. physical things that make up a computer, such as a component or a peripheral
+h (…) 
+4. a software program which allows a user to perform specific tasks such as word processing, email, accounting, database management
+a (…)
+5. an electronic, digital device that stores and processes information
+c (…)
+6. an organized, electronic collection of information optimized for fast access and typically consisting of rows, columns, indexes, and keys
+d (…)
+7. any device internal to the computer, such as a primary hard disk drive or motherboard
+c (…) 
+8. any program designed to run on a computer
+s (…) 
+9. literally meaning 'that which is given', this term refers to raw information of any kind
+d (…)
+10. the largest known public network in the world, connecting millions of computers around the world
+I (…)
+11. a group of connected computers which share resources
+n (…)
+
+WRITING ACTIVITY
+
+COVER THE FOLLING POINTS. (РАСКРОЙТЕ ДАННЫЕ АСПЕКТЫ В ПИСЬМЕННОМ ВИДЕ)
+
+1. Make a list of the apps that you often use.
+2. Describe their functions and why you use them.
+3. Say what you would like to change about these apps. 
+
+SPEAKING ACTIVITY
+
+ANSWER THE QUESTIONS. DISCUSS THE QUESTIONS WITH YOUR GROUPMATES IN A ZOOM CONFERENCE. (ОТВЕТЬТЕ НА ВОПРОСЫ. ОБСУДИТЕ ВОПРОСЫ С ОДНОГРУПНИКАМИ/КОЛЛЕГАМИ ПО КУРСУ В ЗУМЕ)
+
+1. What did you do in the course this week?
+I did my English HW
+I fixed some issues in ... 
+I managed to ... 
+2. What issues (problems) did you have while doing the tasks?
+I had issues (problems) with ... 
+3. How did you solve (fix) the issues? 
+I asked (smb) for help 
+I watched a video and learned how to ... 
+4. What didn't you manage to do this week? Why?
+I didn't do ( ... ) because ...
+I couldn't do (....) because ...
+I didn't manage to (...) because ...
+5. Do you think you will complete unfinished tasks next week?
+I will try to complete ...
+I will complete ... 
+
+
+
+
+
+
+
+
+
