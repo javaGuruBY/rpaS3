@@ -9,6 +9,7 @@ public class CalculatorTest {
     Calculator calculator;
 
     @Before
+
     public void setUp() {
         System.out.println("setUp");
         calculator = new Calculator();
@@ -30,6 +31,7 @@ public class CalculatorTest {
     public static void GlobalTearDown() {
         System.out.println("GlobalTearDown");
 
+
     }
 
     @Test
@@ -38,9 +40,10 @@ public class CalculatorTest {
         int b = 3;
 
         int expected = 7;
-        int actual = calculator.sum(a, b);
 
-        assertEquals(expected, actual);
+        int actual = calculator.sum(a,b);
+
+        Assert.assertEquals(expected,actual);
     }
 
     @Test
@@ -49,14 +52,15 @@ public class CalculatorTest {
         int b = 3;
 
         int expected = 1;
-        int actual = calculator.subs(a, b);
 
-        assertEquals(expected, actual);
+        int actual = calculator.subs(a,b);
 
+        Assert.assertEquals(expected,actual);
     }
 
     @Test
-    public void calculateSumThenSubs() {
+    public void calculateSumThenSub() {
+
         int a = 4;
         int b = 3;
         int c = -5;
@@ -67,7 +71,7 @@ public class CalculatorTest {
 
         int actual = calculator.getResult();
 
-        assertEquals(expected, actual);
+        Assert.assertEquals(expected,actual);
     }
 
     @Test
@@ -82,6 +86,8 @@ public class CalculatorTest {
 
         int actual = calculator.getResult();
 
-        assertEquals(expected, actual);
+        Assert.assertEquals(expected,actual);
     }
 }
+
+
